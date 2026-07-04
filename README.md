@@ -13,3 +13,7 @@ A simple command-line calculator built with Python.
 
 ## Technologies Used
 - Python 3
+
+## About
+
+This project was created by **Dhruv Ghodasara** as part of my Python learning journey. It demonstrates the use of loops, conditional statements, exception handling, and basic arithmetic operations.
